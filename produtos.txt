@@ -1,0 +1,10 @@
+Misery;terror;Stephen King;328;1987;4.6;https://m.media-amazon.com/images/I/91ocgbfq55L._SL1500_.jpg
+O cemiterio;terror;Stephen King;424;2013;5;https://m.media-amazon.com/images/I/8151ymQnnuL._SL1500_.jpg
+Pedra papel tesoura;suspense;Alice Feeney;288;2024;4.9;https://m.media-amazon.com/images/I/715-TCHXB1L._SL1500_.jpg
+Conto de fadas;Fantasia;Stephen King;624;2022;4.7;https://m.media-amazon.com/images/I/91XBIxb9c4L._SL1500_.jpg
+Uma familia feliz;suspense;Raphael Montes;352;2024;4.6;https://m.media-amazon.com/images/I/41kGNfTZsEL._SY445_SX342_.jpg
+Billy Summers;Suspense;Stephen King;472;2021;4.9;https://m.media-amazon.com/images/I/91I4BR51T-L._SL1500_.jpg
+Cem gramas de centeio;suspense;Agatha Christie;232;2018;4;https://m.media-amazon.com/images/I/81lw6nQB6dL._SY425_.jpg
+Saco de ossos;suspense;Stephen King;568;2012;4.2;https://m.media-amazon.com/images/I/91VT-BPVwuL._SL1500_.jpg
+Harry Potter 1;fantasia;J.K. Rowling;208;2017;4.8;https://m.media-amazon.com/images/I/41897yAI4LL._SY445_SX342_.jpg
+A noite das Bruxas;suspense;Agatha Christie;240;1969;4.5;https://m.media-amazon.com/images/I/71SkL5rDqUL._SY425_.jpg
